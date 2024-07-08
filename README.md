@@ -79,10 +79,9 @@ This project involves a Power BI dashboard that analyzes customer churn and prov
 - Stakeholder Collaboration: Engage stakeholders across the organization to ensure alignment and support for retention initiatives.
 
 
-## Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
-
----
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to the original author.
+## Contact Information
+- **Author:** Rupsa Chaudhuri
+- **LinkedIn:** https://www.linkedin.com/in/rupsa-chaudhuri/
 
