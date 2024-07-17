@@ -78,9 +78,6 @@ This project involves a Power BI dashboard that analyzes customer churn and prov
 - Long-Term Planning: Develop a comprehensive retention plan that includes regular monitoring, customer engagement, and continuous improvement initiatives.
 - Stakeholder Collaboration: Engage stakeholders across the organization to ensure alignment and support for retention initiatives.
 
-
-## License
-This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to the original author.
 ## Contact Information
 - **Author:** Rupsa Chaudhuri
 - [LinkedIn](https://www.linkedin.com/in/rupsa-chaudhuri/)
